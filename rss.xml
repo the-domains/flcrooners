@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[flcrooners]]></title>
+        <description><![CDATA[flcrooners]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Apr 2016 02:11:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Band]]></title>
+            <description><![CDATA[<article><h1>The Band</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/024819e7-8cd6-4d60-8895-5b33c14147f2.jpg"></article>]]></description>
+            <link>undefinedthe-band/index.html</link>
+            <guid isPermaLink="false">56fb4635-6bd5-4048-b70b-40a56d78e105</guid>
+            <pubDate>Wed, 13 Apr 2016 02:10:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
