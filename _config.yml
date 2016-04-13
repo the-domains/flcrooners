@@ -1,0 +1,28 @@
+name: flcrooners
+favicon: null
+layout_spectrum: 0.8833767836913466
+typography_spectrum: 0.28796028927899897
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9564513431396335
+  lightness: 0.6231364111881703
+  saturation: 0.17387195560149848
+  rhythmicContrast: 0.842762568499893
+purpose: []
